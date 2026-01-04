@@ -7,7 +7,7 @@
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ---
-
+Play Demo: https://huggingface.co/spaces/devmeta/visual-novel-creator-v2
 ## ✨ Key Features
 
 ### 🤖 1. AI Scenario Engine
