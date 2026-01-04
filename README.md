@@ -1,20 +1,63 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎭 VN-AI Studio
 
-# Run and deploy your AI Studio app
+**VN-AI Studio** is a revolutionary Visual Novel prototyping and creation tool powered by Google Gemini AI. Generate a complete story, characters with multiple expressions, and cinematic backgrounds with just a single prompt.
 
-This contains everything you need to run your app locally.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JSiT9eHv5qY1KjoFin_RTewNHtrbIrNI
+---
 
-## Run Locally
+## ✨ Key Features
 
-**Prerequisites:**  Node.js
+### 🤖 1. AI Scenario Engine
+- **Instant Plot Generation**: Input a theme and get a full narrative structure (Introduction, Development, Twist, Conclusion) in 30 seconds.
+- **Context-Aware Dialogue**: Generates natural character interactions and appropriate facial expressions based on the scene's mood.
 
+### 🖼️ 2. Intelligent Sprite System
+- **5-Expression Batch Generation**: Creates Neutral, Happy, Sad, Angry, and Surprised expressions while maintaining artistic consistency.
+- **Auto Background Removal**: Instantly turns AI-generated portraits into transparent game sprites using advanced canvas processing.
+- **Waist-up Composition**: Optimized for the classic visual novel aesthetic.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🌄 3. Background Asset Library
+- **AI Environment Creation**: Generate high-quality anime-style backgrounds tailored to your scenes.
+- **Persistent Asset Gallery**: A dedicated sliding tab library that tracks all generated backgrounds, allowing you to reuse them across different scenes with one click.
+
+### 📦 4. Professional Export Options
+- **Single HTML**: Export your entire game as a single, portable HTML file.
+- **Web Package (.zip)**: A production-ready web folder with all assets optimized for offline play.
+- **Ren'Py Export**: Automatically generates Ren'Py scripts (`.rpy`) and structured image folders for professional game development.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 19, TypeScript
+- **Styling**: Tailwind CSS
+- **AI Models**: 
+  - `gemini-3-flash-preview` (Logic & Story)
+  - `gemini-2.5-flash-image` (Image Generation)
+- **Utilities**: JSZip (Packaging), Canvas API (Image Processing)
+
+---
+
+## 🚀 Quick Start
+
+1. **Set Theme**: Enter a prompt like "A cyberpunk detective's last case" and hit 'Generate Game'.
+2. **Batch Create Characters**: Use the 'AI Batch Generate' button in the character list to create all expressions at once.
+3. **Refine Scenes**: Select a scene from the 'Ki-Seung-Jeon-Gyeol' tree and use the **Background Asset Library** to assign or reuse images.
+4. **Play & Export**: Test your game with the built-in player and export it to your preferred format.
+
+---
+
+## 🇰🇷 국문 요약 (Korean Summary)
+
+**VN-AI Studio**는 구글 Gemini AI를 활용한 비주얼 노벨 제작 도구입니다.
+
+- **AI 시나리오**: 테마 입력만으로 기승전결 대본과 분기점 자동 생성.
+- **스프라이트 시스템**: 캐릭터의 5가지 감정 표현 일괄 생성 및 배경 자동 제거.
+- **배경 보관함**: 생성된 모든 배경 이미지를 라이브러리에 저장하고 다른 장면에 즉시 재사용 가능.
+- **다양한 내보내기**: 단일 HTML 파일, 웹 패키지(ZIP), 렌파이(Ren'Py) 전용 프로젝트 파일 지원.
+
+---
+Developed with ❤️ by Taewan-Kim
