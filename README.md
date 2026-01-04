@@ -60,4 +60,4 @@
 - **다양한 내보내기**: 단일 HTML 파일, 웹 패키지(ZIP), 렌파이(Ren'Py) 전용 프로젝트 파일 지원.
 
 ---
-Developed with ❤️ by Taewan-Kim
+Developed with 🤖 by Taewan-Kim
