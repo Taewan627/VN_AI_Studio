@@ -1,0 +1,8 @@
+{
+  "name": "VN Studio_데모",
+  "description": "A powerful, AI-assisted platform to create, manage, and play interactive visual novels without writing a single line of code.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
