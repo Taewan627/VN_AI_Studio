@@ -62,6 +62,21 @@ Play Demo: https://huggingface.co/spaces/devmeta/visual-novel-creator-v2
 - **스프라이트 시스템**: 캐릭터의 5가지 감정 표현 일괄 생성 및 배경 자동 제거.
 - **배경 보관함**: 생성된 모든 배경 이미지를 라이브러리에 저장하고 다른 장면에 즉시 재사용 가능.
 - **다양한 내보내기**: 단일 HTML 파일, 웹 패키지(ZIP), 렌파이(Ren'Py) 전용 프로젝트 파일 지원.
+---
+## Notice
+
+This project (VN Studio) is a personal research prototype developed during off-hours and academic study.  
+It does not contain any proprietary company data, internal systems, or enterprise resources.
+
+Any implementations created for company-specific environments are managed separately.
+
+## Notice
+
+본 프로젝트(VN Studio)는 개인 연구 목적으로 개발된 실험적 프로토타입입니다.  
+특정 회사의 업무 결과물, 내부 데이터, 사내 시스템 또는 Enterprise 환경을 포함하지 않습니다.
+
+본 저장소의 코드는 연구 및 학습 목적이며,  
+회사 업무와 연계된 구현물은 별도로 관리됩니다.
 
 ---
 Developed with 🤖 by Taewan-Kim
