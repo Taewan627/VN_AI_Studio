@@ -8,6 +8,7 @@
 
 ---
 Play Demo: https://huggingface.co/spaces/devmeta/visual-novel-creator-v2
+
 https://coex-vna-260607-596819351328.asia-east1.run.app/
 
 [![Video Label](https://github.com/user-attachments/assets/5fda5b8a-9409-48ea-85ea-285bda465460)](https://youtu.be/tI8tUJPb2E4)
